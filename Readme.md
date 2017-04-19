@@ -1,5 +1,5 @@
 # Projet création d'une page web Jonathan Charlet
-[lien](app/apple-touch-icon.png)
+
 Création d'un site web CV avec le framework Bootstrap en utilisant les outils de développement NPM, Yeoman, Bower, Gulp, Git et GitHub. La documentation de ce projet est écrite avec le langage de balisage markdown
 
 **Table des matières**
